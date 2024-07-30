@@ -1,0 +1,20 @@
+body {
+  background-color: #343434;
+  color: #dddddd;
+  font-family: sans-serif;
+  margin: 10% 10%
+}
+
+.nameandcontact {
+  text-align: right;
+}
+
+.proffesianlsummuery{
+  border-top: 2px solid #72bf;  
+  border-bottom: 2px solid #72bf;
+}
+
+.career {
+  border-top: 2px solid #72bf;  
+  border-bottom: 2px solid #72bf;
+}
